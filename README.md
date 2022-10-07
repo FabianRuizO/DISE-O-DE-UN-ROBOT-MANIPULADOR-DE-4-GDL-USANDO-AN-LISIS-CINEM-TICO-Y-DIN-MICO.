@@ -1,4 +1,4 @@
-# DISE-O-DE-UN-ROBOT-MANIPULADOR-DE-4-GDL-USANDO-AN-LISIS-CINEM-TICO-Y-DIN-MICO.
+# DISEÑO-DE-UN-ROBOT-MANIPULADOR-DE-4-GDL-USANDO-ANÁLISIS-CINEMÁTICO-Y-DINÁMICO.
 Proyecto de grado del programa de Ingeniería Electrónica  de la Universidad El Bosque 2022-2
 
 Con el diseño de un robot manipulador usando el análisis cinemático y dinámico, se buscó tener mayor visibilidad de las funciones que puede 
